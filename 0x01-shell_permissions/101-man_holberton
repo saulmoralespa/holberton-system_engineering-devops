@@ -1,3 +1,4 @@
+#!/bin/bash
 .\" Manpage for nuseradd.
 .\" Contact vivek@nixcraft.net.in to correct errors or typos.
 .TH man 8 "06 May 2010" "1.0" "nuseradd man page"
